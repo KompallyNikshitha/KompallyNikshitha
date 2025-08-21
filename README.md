@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/Label-R?style=flat&logo=slug&logoColor=blue&logoSize=auto&label=R&labelColor=black&color=green)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Goals
+## 🎯Goals
 ![Goal](https://img.shields.io/badge/Goal-Becoming%20a%20Full--Stack%20Developer-blue?style=for-the-badge&logo=github)  
 ![Goal](https://img.shields.io/badge/Goal-Contribute%20to%20Open%20Source-green?style=for-the-badge&logo=open-source-initiative)  
 ![Goal](https://img.shields.io/badge/Goal-Learn%20Machine%20Learning-orange?style=for-the-badge&logo=python)  
