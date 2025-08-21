@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-🔭 I’m currently working on AI based projects, web development projects-->
-🌱 I’m currently learning React.js 
+!🔭 I’m currently working on AI based projects, web development projects
+!🌱 I’m currently learning React.js 
 👯 I’m looking to collaborate on Open Source Web Development projects
 🤔 I’m looking for help with optimizing backend APIs
 💬 Ask me about Python, Data Structures, or Web Development
