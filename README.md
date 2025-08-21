@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can solve a Rubik’s cube in under 2 minutes!
 -->
+## 🛠 Skills & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Label-R?style=flat&logo=slug&logoColor=blue&logoSize=auto&label=R&labelColor=black&color=green)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
