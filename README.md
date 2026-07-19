@@ -154,45 +154,41 @@ Speech alignment automation using MFA.
 # 📈 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KompallyNikshitha&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KompallyNikshitha&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KompallyNikshitha&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 # 📊 Activity Graph
 
-[![Nikshitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)]()
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KompallyNikshitha&theme=tokyo-night" />
+</p>
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:nikshithakompally08@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+  <a href="https://github.com/KompallyNikshitha" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/nikshitha-kompally-37b523354/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:nikshithakompally08@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Nikshitha0809/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="55" />
+  </a>
 </p>
 
 ---
