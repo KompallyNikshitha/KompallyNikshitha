@@ -175,16 +175,34 @@ Speech alignment automation using MFA.
 
 ---
 
-# 🌐 Connect with Me
+## 🌐 Connect with Me
 
-📧 Email:
-nikshithakompally08@gmail.com
+<p align="center">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="45"/><br>
+GitHub
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-💼 LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/><br>
+LinkedIn
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-💻 GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
+<a href="mailto:nikshithakompally08@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/><br>
+Gmail
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/><br>
+LeetCode
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+</p>
 
 ---
 
