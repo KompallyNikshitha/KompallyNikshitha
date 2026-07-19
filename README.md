@@ -1,31 +1,203 @@
-## Hi there, I'am Nikshitha
+<h1 align="center">Hi 👋, I'm Nikshitha Kompally</h1>
+<h3 align="center">
+AI & Machine Learning Engineer | Computer Vision Enthusiast | Software Developer
+</h3>
 
-<!--
-**KompallyNikshitha/KompallyNikshitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+AI+that+solves+Real+World+Problems;Computer+Vision+%7C+Machine+Learning;Python+Developer;Open+Source+Learner;Future+AI+Engineer" />
+</p>
 
-Here are some ideas to get you started:
--->
-🔭 I’m currently working on AI based projects, web development projects  
-🌱 I’m currently learning React.js  
-👯 I’m looking to collaborate on Open Source Web Development projects  
-🤔 I’m looking for help with optimizing backend APIs  
-💬 Ask me about Python, Data Structures, or Web Development  
-📫 How to reach me: nikshithakompally08@gmail.com  
-📫 LinkedIn: https://www.linkedin.com/in/nikshitha-kompally-37b523354/  
-😄 Pronouns: She/Her  
-⚡ Fun fact: I can solve a Rubik’s cube in under 2 minutes!  
+---
 
-## 🛠 Skills & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+# 🚀 About Me
 
-## 🎯Goals
-![Goal](https://img.shields.io/badge/Goal-Becoming%20a%20Full--Stack%20Developer-blue?style=for-the-badge&logo=github)  
-![Goal](https://img.shields.io/badge/Goal-Contribute%20to%20Open%20Source-green?style=for-the-badge&logo=open-source-initiative)  
-![Goal](https://img.shields.io/badge/Goal-Learn%20Machine%20Learning-orange?style=for-the-badge&logo=python)  
-![Goal](https://img.shields.io/badge/Goal-Explore%20Cloud%20Computing-purple?style=for-the-badge&logo=googlecloud)  
-![Goal](https://img.shields.io/badge/Goal-Improve%20Problem%20Solving-yellow?style=for-the-badge&logo=leetcode)  
+🎓 Computer Science & Engineering Undergraduate
 
+🤖 Passionate about Artificial Intelligence, Machine Learning and Computer Vision
+
+💡 I enjoy building intelligent systems that solve real-world problems using Deep Learning and Automation.
+
+🏆 2nd Prize Winner - SV University Hackathon (AI Traffic Management System)
+
+🌱 Currently learning
+
+- Advanced Machine Learning
+- Deep Learning
+- MLOps
+- Cloud Technologies
+- System Design
+
+---
+
+# 💼 Experience
+
+## Salesforce Developer Intern
+**Agentblazer Champion Program**
+
+✔ Built custom Salesforce solutions using Apex & Lightning Web Components
+
+✔ Improved CRM workflow efficiency
+
+✔ Recognized as **Agentblazer Champion**
+
+---
+
+## Summer of AI Intern
+**IIIT Hyderabad & Swecha**
+
+✔ Built scalable ML pipelines
+
+✔ Worked with large infrastructure datasets
+
+✔ Developed regression & classification models using PyTorch
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## Machine Learning
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+---
+
+## Data Visualization
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
+
+---
+
+## Cloud & Tools
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 🚀 Featured Projects
+
+## 🚦 AI Traffic Violation Detection & Ambulance Path Clearance
+
+Computer Vision based intelligent traffic monitoring system.
+
+### Features
+
+- Vehicle Detection
+- Ambulance Detection
+- Traffic Violation Detection
+- Smart Signal Automation
+- Emergency Vehicle Clearance
+
+**Tech Stack**
+
+Python • OpenCV • AI • Arduino
+
+---
+
+## ❤️ Smart Health Tracker
+
+AI-powered wearable monitoring system capable of
+
+- Health anomaly detection
+- Real-time monitoring
+- Emergency alert generation
+
+Accuracy **95%**
+
+---
+
+## 🎤 Montreal Forced Aligner
+
+Speech alignment automation using MFA.
+
+✔ Automated phonetic annotation
+
+✔ Reduced manual effort by 70%
+
+---
+
+# 🏆 Achievements
+
+🥈 2nd Prize - SV University Hackathon
+
+🏅 Salesforce Agentblazer Champion
+
+🎓 Summer of AI Intern - IIIT Hyderabad
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+[![Nikshitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night)]()
+
+---
+
+# 🌐 Connect with Me
+
+📧 Email:
+nikshithakompally08@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/YOUR_LINKEDIN
+
+💻 GitHub:
+https://github.com/YOUR_GITHUB_USERNAME
+
+---
+
+# 💭 Quote
+
+> "Building AI isn't just about writing code—it's about creating solutions that improve lives."
+
+---
+
+<p align="center">
+
+⭐ If you like my projects, consider giving them a Star!
+
+</p>
