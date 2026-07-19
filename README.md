@@ -179,29 +179,20 @@ Speech alignment automation using MFA.
 
 <p align="center">
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="45"/><br>
-GitHub
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/><br>
-LinkedIn
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:nikshithakompally08@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/><br>
-Gmail
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/">
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/><br>
-LeetCode
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 </p>
 
 ---
